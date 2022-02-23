@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of disbanding the army at present briefly and impartially considered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35609</idno>
+            <idno type="STC">Wing C902</idno>
+            <idno type="STC">ESTC R4007</idno>
+            <idno type="EEBO-CITATION">13677291</idno>
+            <idno type="OCLC">ocm 13677291</idno>
+            <idno type="VID">101253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 841:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of disbanding the army at present briefly and impartially considered.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by John Nutt, near Stationer's Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History.</term>
+               <term>Great Britain --  Military policy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101253:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:101253:1"/>
+            <!-- PDF PAGE 85 -->
+            <p>THE CASE OF Disbanding the ARMY AT PRESENT, <hi>Briefly and Impartially Conſider'd.</hi>
+            </p>
+            <p>Publiſhed by <hi>John Nutt,</hi> near <hi>Stationer</hi>'s <hi>Hall,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101253:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:101253:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>THE Caſe of Disbanding THE ARMY AT PRESENT, <hi>Briefly and Impartially Conſider'd.</hi>
+            </head>
+            <p>I Shall reduce my Thoughts about this Matter within as ſmall a compaſs as may be, and there<g ref="char:EOLhyphen"/>fore ſhall not trouble the Reader with Hiſto<g ref="char:EOLhyphen"/>ſtorical Quotations either out of Ancient or Mo<g ref="char:EOLhyphen"/>dern Authors, as altogether foreign to the Pur<g ref="char:EOLhyphen"/>poſe,
+<pb n="2" facs="tcp:101253:3"/>
+               <!-- PDF PAGE 87 -->unleſs they are prov'd to agree with the preſent Conjuncture of Affairs in every Particular; and ſo far it may be own'd, <hi>that Men in the ſame Circumſtances will do the ſame Things;</hi> for 'tis a plain Caſe, that in taking true Meaſures for the Safety of any Government, Men muſt Examine the pre<g ref="char:EOLhyphen"/>ſent State of Affairs both within and without it, and things that may happen hereafter; and always to provide againſt the moſt evident and likely Dangers</p>
+            <p>I ſhall take it for granted, that an Army in time of Peace is conſiſtent with our Conſtitution if the Safety of the Realm require it, and that it be with the Conſent of the Parliament; And therefore if it be made appear, that the preſent Government, which (under God) is the beſt Se<g ref="char:EOLhyphen"/>curity we have for our Religion, Liberty, and Property, is in evident Danger without an Army, and that in the preſent State of Affairs our Liber<g ref="char:EOLhyphen"/>ties and Properties cannot be infring'd nor mo<g ref="char:EOLhyphen"/>leſted by one, this I hope will ſet this great Caſe in a true Light.</p>
+            <p>Firſt, That the preſent Government is in evi<g ref="char:EOLhyphen"/>dent Danger without a competent Number of Land Forces for its Defence. The Poſture of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> at preſent is this, in relation to Safety, that
+<pb n="3" facs="tcp:101253:3"/>
+               <!-- PDF PAGE 87 -->there are Princes abroad that pretend a Right to wear its Imperial Crown, who are Protected and Supported by the moſt Powerful Monarch in <hi>Chriſtendom,</hi> who is able enough ſtill, notwith<g ref="char:EOLhyphen"/>ſtanding his late Reſtitutions, to do what he pleaſes with the Empire, <hi>Spain,</hi> and <hi>Holland,</hi> unleſs <hi>Eng<g ref="char:EOLhyphen"/>land</hi> joins with them for the Common Liberty, in which its own is certainly involv'd. It is very well known, that this Powerful Monarch pretends in the behalf of the Princes that are deſcended from him a Right to the Crown of <hi>Spain,</hi> and all the Dominions thereunto belonging, upon the Death of the preſent King, which is a fair Step to Univerſal Monarchy: And it is as plain, that if this Monarch can once ſecure <hi>England,</hi> then he will be able to make good his Pretenſions in ſpight of the reſt of the Allies, and <hi>Portugal</hi> too if it joins with them. This demonſtrates, that it is ab<g ref="char:EOLhyphen"/>ſolutely his Intereſt to have <hi>England</hi> at his Devo<g ref="char:EOLhyphen"/>tion, which he can hardly expect from the pre<g ref="char:EOLhyphen"/>ſent Government: And if the Caſe be ſo, then the Queſtion is, Whether it is Safe and Adviſable to lay our ſelves open to a Neighbour ſo Powerful both by Sea and Land, whoſe Intereſt it is to ſub<g ref="char:EOLhyphen"/>due us, who wants no Pretence for it, and who has ſeldom fail'd to proſecute his Intereſt when a
+<pb n="4" facs="tcp:101253:4"/>
+               <!-- PDF PAGE 88 -->fair Opportunity has offer'd for it? But they ſay, that a good Fleet, and a well Train'd Militia, is ſufficient to put us out of Danger. As to the firſt, it muſt be own'd, that the Honour, Glory, and Safety of the Nation does chiefly depend upon our Fleet; but it is fit to conſider at the ſame time, that the French King can put out all his Fleet whenever he pleaſes, and that he can purſue his Deſigns with more Secrecy and Expedition than the Conſtitution of this Government can admit: But the King of <hi>England</hi> cannot put out a Fleet without the help of his Parliament, which muſt meet together, and ſettle Funds for the ſetting out of the Fleet, without which the King cannot have a ſufficient Credit. The Caſe being ſo, it cannot otherwiſe be, (or it is but too probable that it will be ſo) that the <hi>French</hi> King in time of Peace will put out his whole Fleet ſooner than we can put out ours, even though His Majeſty ſhould immediately call a Parliament, and deſire Supplies for a Fleet every time the <hi>French</hi> work in their Docks at <hi>Breſt, Rochefort,</hi> and <hi>Dunkirk,</hi> as if they deſign'd to ſet out their Fleet: Or the Parliament muſt of courſe allow the King every year a Fund for the ſetting out a Fleet, as in time of War: And
+<pb n="5" facs="tcp:101253:4"/>
+               <!-- PDF PAGE 88 -->beſides, though we could be ready as ſoon as they, yet it is fit to conſider, whether if they ſhould Arm in theſe three Places at once, and the <hi>Hogue,</hi> we can, (conſidering the accidents of Weather) hin<g ref="char:EOLhyphen"/>der their Landing upon us from every one, or any one of theſe Places.</p>
+            <p>This ſeems to demonſtrate, that it is very ne<g ref="char:EOLhyphen"/>ceſſary to have another Defence ready in caſe the firſt ſhould fail, which (as it appears from what has been ſaid) may very well be: This Defence therefore muſt be a Land Force. That the Militia is not at preſent a competent Defence, is own'd by thoſe who propoſe Methods to render it ſer<g ref="char:EOLhyphen"/>viceable. I would not be thought to undervalue Militia's, no doubt they could render Service, e<g ref="char:EOLhyphen"/>ſpecially the Foot, being interlin'd with Regular Troops, or they may be put into the leſs expos'd Garriſons, to draw out from thence the Regular Troops to reinforce an Army: But as for Horſe, the Horſe muſt be Train'd as well as the Man, or elſe the Braveſt Men in the World can render no Service upon Horſes that are not Train'd. But if the Militia can be render'd ſerviceable for our Defence againſt the Invaſions of Diſciplin'd Troops, as thoſe very Perſons that would Disband the Army muſt own that it is not at preſent, it is fit to conſider, that
+<pb n="6" facs="tcp:101253:5"/>
+               <!-- PDF PAGE 89 -->a Militia under ſuch Regulations as are proper to make it Serviceable, will then enter into the very Conſti<g ref="char:EOLhyphen"/>tutions of the Kingdom, that it will be a very great and perpetual Expence upon the Subject, and that it muſt veſt as great a Military Power in the King, as if he had an Army at his Command, or elſe it cannot be thought to make it Serviceable. This is the very Caſe of <hi>Sweden; Puffendorf</hi> tells us, that the King of <hi>Sweden</hi> pays no other Forces out of his Coffers but the Life-Guard and the Foot-Guards, I mean in <hi>Sweden;</hi> the reſt is the Militia of the Coun<g ref="char:EOLhyphen"/>try, maintain'd by Tenures from the Crown (which is the very Original of Militia's) and kept in con<g ref="char:EOLhyphen"/>ſtant Duty and Diſcipline: But pray, has this Militia preſerv'd the Rights and Properties of the People? Is not the King of <hi>Sweden</hi> as Abſolute a Monarch as any in Chriſtendom? And on the contrary we find a Country in the World not for off, call'd <hi>Holland,</hi> where they maintain all the Li<g ref="char:EOLhyphen"/>berty that can be imagin'd in a Common-wealth, with an Army and the King at the Head of it, without any ſuch thing as Militia in its Conſtitu<g ref="char:EOLhyphen"/>tion. But an Army, being requir'd only during the preſent State of Affairs in Chriſtendom, which (as Experience tells us) have never continued long in the ſame Poſture, cannot enter into the Con<g ref="char:EOLhyphen"/>ſtitution
+<pb n="7" facs="tcp:101253:5"/>
+               <!-- PDF PAGE 89 -->of the Monarchy, nor can it be made a Precedent any longer than the Poſture of Affairs is the ſame as 'tis now; It is a better Defence than a Militia, and infinitely Cheaper, and leſs Vexa<g ref="char:EOLhyphen"/>tious and Troubleſome to the Subject; neither can a competent Number of Land-Forces for our Defence, I may venture to ſay a good Army, at<g ref="char:EOLhyphen"/>tempt in the leaſt, during the preſent juncture of Affairs, to invade the Rights and Properties of the People of <hi>England,</hi> (the ſecond Thing to be pro<g ref="char:EOLhyphen"/>ved) which is the common Bugbear to put People out of conceit with what ſeems ſo neceſſary at pre<g ref="char:EOLhyphen"/>ſent for their ſafety; and when the State of Affairs alters, it will conſequently be as eaſie then to Dis<g ref="char:EOLhyphen"/>band them as it is now, and certainly much more proper.</p>
+            <p>The Author or Authors of the Hiſtory of Stand<g ref="char:EOLhyphen"/>ing Armies, have already prov'd to our Hands, that no Kings of <hi>England</hi> either with or without Armies, have hitherto made any ſteps towards Tyranny and Arbitrary Power, but it has prov'd Fatal to them; and if this has been the ſucceſs of their Attempts when they have had no jealouſie of Com<g ref="char:EOLhyphen"/>petitors ſupported by Formidable Neighbours, it muſt be much more impoſſible for any King of <hi>England</hi> that comes in upon the preſent Settlement
+<pb n="8" facs="tcp:101253:6"/>
+               <!-- PDF PAGE 90 -->to ſet up for Tyranny and Arbitrary Power: And he cannot make any Steps towards it, as Affairs are now, without bringing evident Ruine upon himſelf; becauſe the Competitors (being ſuppor<g ref="char:EOLhyphen"/>ted by the moſt powerful Prince in Chriſtendom, whoſe Intereſt it is to have <hi>England</hi> at his Devoti<g ref="char:EOLhyphen"/>on) will take the Advantage of that great ferment in the Nation, which ſuch an Attempt muſt produce, to aſſert their Claim. This is but too good a col<g ref="char:EOLhyphen"/>lateral Security for our Rights and Properties un<g ref="char:EOLhyphen"/>der the Preſent Settlement; and when it ſhall pleaſe God to put Affairs upon another Foot, and that we ſhall have no occaſion for theſe Fears and Appre<g ref="char:EOLhyphen"/>henſions, then let the Army be Disbanded, no True Engliſhman can plead for it; but whilſt Affairs continue in the ſtate they are in at preſent, it is a plain Caſe that our Liberty and Property can be in no Danger, but will rather be preſerv'd by an Army ready for our Defence.</p>
+            <p>Thoſe that have writ againſt an Army during the preſent Peace, are pleaſed to Compliment His Ma<g ref="char:EOLhyphen"/>jeſty out of what ſeems ſo neceſſary for his and our Safety: They ſay, That indeed they are un<g ref="char:EOLhyphen"/>der no Apprehenſions of ſuch Attempts upon the Liberties of the People, during his Reign, and ſo far they are in the Right; but they are afraid of
+<pb n="9" facs="tcp:101253:6"/>
+               <!-- PDF PAGE 90 -->what may come hereafter, when the having an Army at preſent may ſerve as a Precedent for ſuc<g ref="char:EOLhyphen"/>ceeding Monarchs. To which it may be anſwer'd, Firſt, That it cannot ſerve as a Precedent to ſuc<g ref="char:EOLhyphen"/>ceeding Kings, unleſs the State of Affairs be the ſame as it is now; if they have not the ſame Oc<g ref="char:EOLhyphen"/>caſion for their Defence, and that of <hi>England,</hi> they cannot draw our having an Army at preſent into a Precedent. Secondly, I anſwer, That whenever that unhappy Hour ſhall come which will deprive us of our King, (whom GOD long preſerve to Reign over us) our preſent Conſtitution will then run the greateſt Risk, if Affairs remain in the ſame Poſture as they are in now; it will be the moſt favourable conjuncture for Competitors to the Crown, and their too powerful Protectors, to en<g ref="char:EOLhyphen"/>ter upon us: And therefore, ſince His Majeſty's Life is ſuch an Obſtacle to them, is it not very much to Expoſe His Majeſty's Perſon, and with it the Preſent Government, to have no Army on Foot in this Conjuncture? It is likewiſe very fit to conſider, That in ſuch a Caſe, beſides the Danger on that Hand, we have Neighbours that need not Croſs the Seas to come upon us, and who may be rempted to make us a Viſit on the other.</p>
+            <pb n="10" facs="tcp:101253:7"/>
+            <!-- PDF PAGE 91 -->
+            <p>I may add as a collateral Argument, That thoſe who have writ againſt the Army with ſo much Vi<g ref="char:EOLhyphen"/>rulency and Malice, (for none have writ with Tem<g ref="char:EOLhyphen"/>per) have ſufficiently diſcover'd their ill Inclinations towards Monarchy and the Church of <hi>England,</hi> but more openly and expreſly towards the Latter; which plainly ſhews, That their deſigns againſt both can hardly be compaſſed whilſt there is an Army on foot for the Defence of the Preſent Go<g ref="char:EOLhyphen"/>vernment; and therefore 'tis to be hop'd, that thoſe who are Well-wiſhers to the Church and to the State, will take care not to be drawn into the Snare, un<g ref="char:EOLhyphen"/>der the plauſible Pretext of Providing for the Li<g ref="char:EOLhyphen"/>berty of the People, which, 'tis very Evident, can<g ref="char:EOLhyphen"/>not be invaded by an Army, during the preſent Conjuncture.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101253:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+         </div>
+      </body>
+   </text>
+</TEI>
